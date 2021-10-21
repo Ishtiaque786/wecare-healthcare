@@ -6,7 +6,6 @@ import NotFound from "./Pages/NotFound/NotFound";
 import Footer from "./Pages/Footer/Footer";
 import Header from "./Pages/Header/Header";
 import Services from "./Pages/Services/Services";
-import Booking from "./Pages/Booking/Booking";
 import Login from "./Pages/Login/Login";
 import Doctors from "./Pages/Doctors/Doctors";
 import About from "./Pages/About/About";
@@ -53,7 +52,7 @@ function App() {
               <Register></Register>
             </Route>
 
-            <Route path="/servicesinfo/:serviceId">
+            <Route path="/service/:serviceId">
               <ServiceDetail></ServiceDetail>
             </Route>
 

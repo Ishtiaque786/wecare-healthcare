@@ -17,7 +17,7 @@ const ServicesInfo = (props) => {
               <Card.Title>Cost:$ {cost}</Card.Title>
             </Card.Body>
             <Card.Footer>
-              <Link to={`servicesinfo/${id}`}>
+              <Link to={`service/${id}`}>
                 <Button variant="info" size="lg">
                   Book Appointment
                 </Button>
