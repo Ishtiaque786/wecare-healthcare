@@ -1,0 +1,6 @@
+.submit {
+  color: white;
+}
+.submit:hover {
+  color: rgb(108, 125, 221);
+}

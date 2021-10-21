@@ -1,0 +1,20 @@
+.footer {
+  background-color: #95afc0;
+}
+
+.social-media-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+.fab {
+  margin-right: 14px;
+}
+.fab:hover {
+  color: #60a3bc;
+  cursor: pointer;
+}
+.copyright {
+  color: #341f97;
+}
