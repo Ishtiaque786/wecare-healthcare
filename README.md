@@ -1,6 +1,6 @@
 # WeCare Diagnostic Center
 
-## Live site -
+## Live site - https://clever-payne-d0f8f1.netlify.app/
 
 ### • In this website you can find the doctors to consult.
 
